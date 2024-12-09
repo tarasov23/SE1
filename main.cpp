@@ -8,9 +8,9 @@ using namespace std;
 
 int main()
 {
-    int a;
-    int b;
-    cin >> a;
-    cin >> b;
-    cout << a - b << endl;
+    int a, b;
+    cout << "Enter A and B: ";
+    cin >> a >> b;
+    cout << "A + B = " << a + b << '\n' << "A - B = " << a - b << '\n' << "A / B = " << a * b << '\n';
+return 0;
 }
