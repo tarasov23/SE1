@@ -8,4 +8,5 @@ int main()
     int b;
     cin >> a;
     cin >> b;
+    cout << a - b << endl;
 }
