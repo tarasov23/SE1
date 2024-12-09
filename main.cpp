@@ -1,6 +1,7 @@
 #include <iostream>
 
 // учебная программа
+// КЭ-217
 using namespace std;
 
 int main()
